@@ -1,0 +1,45 @@
+.btn-dropdown {
+    width: 100%;
+  }
+
+  .btn-dropdown .dropdown-toggle {
+    width: 100%;
+  }
+
+  .nav-lin {
+    color: #fff;
+  }
+
+  .no-outline {
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+
+  .fa-stack {
+    position: relative;
+    display: inline-block;
+  }
+
+  .notification-counter {
+    position: absolute;
+    top: -12px;
+    right: -4px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .nav-item {
+    margin-left: 10px;
+  }
+
+  .nav {
+    margin-top: 15px;
+  }
